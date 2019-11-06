@@ -1,0 +1,24 @@
+body
+{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
+    color:#01161e;
+    background-color: #aec3b0;
+}
+
+h1,h2
+{
+    text-align: center;
+}
+
+h1
+{
+    color: #124559;
+}
+
+h2
+{
+    color: #456672;
+}
